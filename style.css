@@ -94,7 +94,7 @@ body {
 }
 
 .grid-item-2 {
-  text-align: center;
+  text-align: left;
   font-size: 1.1em;
   min-width: 80px;
   padding-top: 12px;
@@ -112,13 +112,13 @@ body {
   min-width: 86px;
   line-height: 120%;
   padding-top: 4px;
-	text-align: center;
+	text-align: left;
 }
 
 .grid-item-5 {
   margin-top: 7px;
   font-size: 1.1em;
-  text-align: center;
+  text-align: left;
 }
 
 .grid-item-6 {
@@ -133,7 +133,7 @@ body {
 }
 
 .grid-item-8 {
-	text-align: center;
+	text-align: left;
 	font-size: 1.1em;
 	min-width: 80px;
 	padding-top: 6px;
@@ -147,8 +147,8 @@ body {
 }
 
 
-.map {
-	margin: 0;
+.map img {
+   margin: 0;
 }
 
 .menu {
